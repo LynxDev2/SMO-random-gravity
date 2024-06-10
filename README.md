@@ -1,4 +1,10 @@
-# SMO-Exlaunch-Base
+
+# SMO random gravity mod
+This mod changes Mario's gravity to a random direction every 30 seconds
+
+Have fun :)
+
+# Original SMO-Exlaunch-Base
 
 A base repository using exlaunch-cmake that contains code for modifying Super Mario Odyssey 1.0.
 
